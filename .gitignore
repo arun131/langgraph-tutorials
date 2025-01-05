@@ -172,3 +172,4 @@ cython_debug/
 
 # folders 
 /langchain-academy
+/module 2/state_db
